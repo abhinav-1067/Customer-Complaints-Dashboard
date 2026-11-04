@@ -80,7 +80,7 @@ The goal was to transform raw data into reliable, structured information and gen
 
 | Resource | Link |
 |:---|:---|
-| Dataset | [View Dataset](YOUR_DATASET_LINK) |
+| Dataset | [View Dataset](https://github.com/abhinav-1067/Customer-Complaints-Dashboard/blob/main/Consumer_Complaints.xlsx) |
 | BRD Document | [View BRD](YOUR_BRD_LINK) |
 | LinkedIn | [Connect with me](YOUR_LINKEDIN_LINK) |
 | Instagram | [Follow me](YOUR_INSTAGRAM_LINK) |
