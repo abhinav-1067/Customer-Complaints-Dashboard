@@ -81,7 +81,7 @@ The goal was to transform raw data into reliable, structured information and gen
 | Resource | Link |
 |:---|:---|
 | Dataset | [View Dataset](https://github.com/abhinav-1067/Customer-Complaints-Dashboard/blob/main/Consumer_Complaints.xlsx) |
-| BRD Document | [View BRD](YOUR_BRD_LINK) |
+| BRD Document | [View BRD](https://github.com/abhinav-1067/Customer-Complaints-Dashboard/blob/main/Consumer_Complaints_BRD_3page.pdf) |
 | LinkedIn | [Connect with me](https://www.linkedin.com/in/abhinav-yadav-3a4a05375/) |
 | Instagram | [Follow me](https://www.instagram.com/abhiinav.py/) |
 
